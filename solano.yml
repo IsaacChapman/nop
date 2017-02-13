@@ -1,3 +1,2 @@
 tests:
-	- /bin/true
-
+  - /bin/true
